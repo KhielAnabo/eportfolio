@@ -1,0 +1,8 @@
+<html>
+<head><title> About Me </title></head>
+<body style="background-color:#ECA39D;">
+<h2 style="color:#18288D;" align="center"><b> About Me :></b></h2>
+<p align="center" style="font-size:25px;"><b> Hi, I'm Khiel Anabo from Grade 9 - Faith this school year 2024-2025. My Hobbies are playing instruments and cycling. My short term goal this year is to pass the 9th grade with honor and make my parents proud again, and my long term goal is to pay back for my parents' hardships.
+</body>
+</html>
+
