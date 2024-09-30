@@ -23,7 +23,8 @@ li a {
 <body style="background-color:#AA4A44;">
 
 <ul>
-<li><a href="anabo.html" style="font-size:25px;">home</a></li>
+<li><a href="Aboutme.html" style="font-size:25px;">About Me</a></li>
+<li><a href="anabo.html" style="font-size:25px;">Home</a></li>
   <li><a href="lessons.html" style="font-size:25px;">Lessons</a></li>
   <li><a href="reflection.html" style="font-size:25px;">Reflection</a></li>
 </ul>
